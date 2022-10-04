@@ -1,4 +1,4 @@
-package vehiculo;
+package vehiculos;
 
 public class Vehiculo {
         private String placa;
@@ -21,6 +21,7 @@ public class Vehiculo {
                 this.traccion= traccion;
                 this.fabricante= fabricante;
                 cantidadVehiculos++;
+
         }
 
         public String getPlaca(){

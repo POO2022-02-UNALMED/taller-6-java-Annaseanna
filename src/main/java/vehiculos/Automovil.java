@@ -1,6 +1,6 @@
-package vehiculo;
+package vehiculos;
 
-public class Automovil extends Vehiculo{
+public class Automovil extends Vehiculo {
     private int puestos;
     private static int cantidadAutomoviles= 0;
 
